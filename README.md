@@ -3,8 +3,6 @@
 
 A simple console-based banking system in Java that demonstrates key Object-Oriented Programming (OOP) principles including abstraction, inheritance, interfaces, polymorphism, constructors, and modifiers like `static` and `final`.
 
----
-
 ## 📌 Features
 
 - Create accounts in **Nationalized** or **Cooperative** banks.
@@ -18,15 +16,11 @@ A simple console-based banking system in Java that demonstrates key Object-Orien
 - Unique account number generation using static counter.
 - Demonstrates Java OOP principles in action.
 
----
-
 ## 🛠 Technologies Used
 
 - **Java 8+**
 - **IntelliJ IDEA (Community Edition)**
 - **No external libraries**
-
----
 
 ## 🚀 How to Run
 
@@ -40,8 +34,6 @@ A simple console-based banking system in Java that demonstrates key Object-Orien
 3. Make sure Java SDK 1.8+ is configured.
 
 4. Run the `BankApp.java` file.
-
----
 
 ## 📖 Sample Interaction
 
@@ -77,8 +69,6 @@ Holder: Rahul
 Account Number: ACC101
 Balance: ₹8500.0
 ```
-
----
 
 ## 🎯 OOP Concepts Used
 
