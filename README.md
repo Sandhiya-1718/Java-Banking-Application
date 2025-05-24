@@ -28,23 +28,6 @@ A simple console-based banking system in Java that demonstrates key Object-Orien
 
 ---
 
-## 🧱 Project Structure
-
-```
-src/
-├── BankApp.java                # Main class with the menu and user interaction
-├── Bank.java                   # Abstract class for common bank structure
-├── NationalizedBank.java       # Child of Bank (Nationalized)
-├── CooperativeBank.java        # Child of Bank (Cooperative)
-├── Account.java                # Abstract class for accounts
-├── SavingsAccount.java         # Implements AccountOperations
-├── CurrentAccount.java         # Implements AccountOperations
-├── LoanAccount.java            # Implements AccountOperations
-└── AccountOperations.java      # Interface for deposit/withdraw operations
-```
-
----
-
 ## 🚀 How to Run
 
 1. Clone this repository:
